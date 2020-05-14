@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+
+Hello World!  My name is Crystal, I am thrilled to code :)
